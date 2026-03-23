@@ -77,7 +77,11 @@ manufacturing-quality-lakehouse/
 │
 ├── assets/
 │   └── data_exploration.ipynb    # Data profiling and anomaly detection
-│
+|── data/
+│   ├── defects.csv
+|   ├── inspection_logs.csv
+|   ├── stations.csv
+|   └── vehicles.csv  
 ├── src/                          
 │   ├── bronze_to_silver.py       # PySpark cleansing and DQDL script
 │   └── silver_to_gold.py         # PySpark Star Schema & Aggregations script
