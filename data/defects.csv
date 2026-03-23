@@ -1,0 +1,10 @@
+defect_id,defect_description,severity_level
+NONE,No defect found,NONE
+D001,Scratch on paint,MINOR
+D002,Uneven panel gap,MINOR
+D003,Missing torque on bolt,CRITICAL
+D004,Electrical short,CRITICAL
+D005,Software configuration error,CRITICAL
+D006,Stitching tear in seat,MINOR
+D007,Sensor misalignment,CRITICAL
+D008,Fluid leak,CRITICAL

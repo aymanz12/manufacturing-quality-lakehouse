@@ -1,0 +1,28 @@
+station_id,zone_name,inspection_type
+ST-001,Chassis,automated
+ST-002,Chassis,automated
+ST-003,Chassis,automated
+ST-004,Chassis,automated
+ST-005,Chassis,automated
+ST-006,Body,automated
+ST-007,Body,automated
+ST-008,Body,automated
+ST-009,Body,automated
+ST-010,Body,automated
+ST-011,Paint,manual
+ST-012,Paint,manual
+ST-013,Paint,manual
+ST-014,Powertrain,automated
+ST-015,Powertrain,automated
+ST-016,Powertrain,automated
+ST-017,Powertrain,automated
+ST-018,Electronics,manual
+ST-019,Electronics,manual
+ST-020,Electronics,manual
+ST-021,Final Assembly,manual
+ST-022,Final Assembly,manual
+ST-023,Final Assembly,manual
+ST-024,Final Assembly,manual
+ST-025,Final Assembly,manual
+ST-026,QA,manual
+ST-027,QA,manual
