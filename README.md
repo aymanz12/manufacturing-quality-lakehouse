@@ -3,7 +3,7 @@
 ### **Project Overview**
 Architected and developed a fully automated end-to-end data pipeline, orchestrated via **AWS Glue Workflows**, using PySpark to process manufacturing inspection logs. Implementing a Medallion Lakehouse Architecture (Bronze, Silver, Gold), the platform transforms raw, messy factory floor data into a highly optimized Star Schema using the Delta Lake format. 
 
-The resulting data marts are cataloged via **AWS Glue Crawlers** and queried via **Amazon Athena** to power a synchronized, real-time executive Power BI dashboard for plant managers to track vehicle defects, shift performance, and production bottlenecks.
+The resulting data marts are cataloged via **AWS Glue Crawlers** and queried via **Amazon Athena** to power a synchronized, executive Power BI dashboard for plant managers to track vehicle defects, shift performance, and production bottlenecks.
 
 ---
 
